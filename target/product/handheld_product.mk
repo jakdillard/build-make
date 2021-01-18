@@ -25,7 +25,6 @@ PRODUCT_PACKAGES += \
     Camera2 \
     Contacts \
     DeskClock \
-    Gallery2 \
     LatinIME \
     Music \
     OneTimeInitializer \
